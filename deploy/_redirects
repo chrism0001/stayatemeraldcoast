@@ -1,0 +1,2 @@
+# Redirect www to non-www (update domain when ready)
+# https://www.emeraldcoastgetaway.com/* https://emeraldcoastgetaway.com/:splat 301!
